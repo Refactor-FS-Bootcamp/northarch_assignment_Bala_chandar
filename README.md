@@ -1,3 +1,6 @@
+Deployed link:-   https://balachandar-northernarc.netlify.app/
+
+
 # Steps to Submit your solution :
 
 - Clone (or pull) the repositary in your local pc.
